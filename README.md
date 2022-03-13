@@ -6,4 +6,4 @@ a chest X-ray web app that is able to classify if the image is COVID-19, Pneumon
 - the tools that was used were basic html, css, javascript for the frontend and flask on the backend as well as keras and opencv
 - the pretrained model we bulit is on this repositery but for own use of the dataset its on kaggle through this link kaggle.com/prashant268/chest-xray-covid19-pneumonia  
 
-![](project.png)
+![](/project.png)
